@@ -9,6 +9,7 @@ The images will be doubled in resolution and sharpened.
 
 
 The next steps are run in the Full_Pipeline.ipynb
+**This file should be downloaded and run on Google Colab using a GPU)** 
 
 **Odometer Localization:** 
 
