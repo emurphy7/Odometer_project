@@ -1,0 +1,11 @@
+filename,width,height,class,xmin,ymin,xmax,ymax
+odo_1.jpg,55,35,odometer,110,106,165,141
+odo_2.jpg,106,30,odometer,82,115,188,145
+odo_3.jpg,74,30,odometer,126,120,200,150
+odo_4.jpg,84,44,odometer,66,119,150,163
+odo_5.jpg,83,23,odometer,77,102,160,125
+odo_6.jpg,142,43,odometer,58,140,200,183
+odo_7.jpg,186,45,odometer,50,20,236,65
+odo_8.jpg,112,39,odometer,85,92,197,131
+odo_9.jpg,105,44,odometer,83,124,188,168
+odo_10.jpg,69,38,odometer,106,124,175,162
