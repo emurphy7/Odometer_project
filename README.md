@@ -1,3 +1,6 @@
+**Data** 
+The data in the small_odometer_dataset comes from a google search. No data from American Family Insurance is used. The annotation csv files were manually created. Most of the excel_manipulation.ipynb file was used only for the American Family Insurance data. (The one portion that was used for the small dataset is commented and not necessary to run)
+
 **Pre-Processing:** 
 The link to the dataset is: Odometer_project/small_data/small_odometer_dataset
 In order to preprocess the data, the matlab folder will need to be downloaded. The image processing toolbox in matlab also needs to be installed. https://www.mathworks.com/products/image.html
@@ -22,7 +25,7 @@ The Character recognition portion of this project also uses the MobleNet V2 as i
 There are two trained graphs that can be used for the test - the one that is trained in the notebook and a model that I trained on the larger dataset. The model trained on the larger dataset will perform much better. 
 
 **Post-Processing:**  
-The values in some of these step may be changed to increase the accuracy of the model. Some examples of this are the threshold value(step 2), the closness percentage (step 5) and the exrapolation factor (step 6)
+The values in some of these step may be changed to increase the accuracy of the model. Some examples of this are the threshold value(step 2), the closeness percentage (step 5) and the exrapolation factor (step 6)
 
 1. Filter bounding boxes that belong to non-digit character.
 2. Filter bounding boxes by the classification score (10% was used)
