@@ -3,7 +3,7 @@ The data in the small_odometer_dataset comes from a google search. No data from 
 
 **Pre-Processing:** 
 The link to the dataset is: Odometer_project/small_data/small_odometer_dataset
-In order to preprocess the data, the matlab folder will need to be downloaded. The image processing toolbox in matlab also needs to be installed. https://www.mathworks.com/products/image.html
+In order to preprocess the data, the matlab_files folder will need to be downloaded. The image processing toolbox in matlab also needs to be installed. https://www.mathworks.com/products/image.html
 
 Once this folder is download, move the small_odometer dataset into it. Create an empty folder for results titled: small_odometer_dataset_bicubic_result_sharpen 
 From there run_file.m file can be run and this will create the processed images. 
